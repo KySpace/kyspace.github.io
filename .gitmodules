@@ -1,0 +1,3 @@
+[submodule "try-rocket"]
+	path = try-rocket
+	url = https://github.com/KySpace/try-rocket
